@@ -9,3 +9,4 @@
 adserver.assistads.net
 go.xlivrdr.com
 go.zybrdr.com
+tck.lmadps.jp
