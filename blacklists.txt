@@ -1,4 +1,4 @@
-# whitelists
+# blacklists
 #
 # author: rei
 #
@@ -13,3 +13,4 @@ tck.lmadps.jp
 spnativeapi.i-mobile.co.jp
 googleads.g.doubleclick.net
 www.googleadservices.com
+ad.line-scdn.net
